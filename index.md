@@ -1,5 +1,77 @@
 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
 
+<!--
+
+-->
+
+<html><head><title>Jay N. Krehbiel - West Virginia University - Assistant Professor</title>
+		
+		<meta content=“Comparative judicial institutions, comparative political institutions, formal political theory, European politics, comparative law, judicial politics, research, teaching, Jay Krehbiel” name="keywords">
+		<meta content=“Jay Krehbiel, Comparative politics, political institutions, courts, formal political theory, game theory" name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<!-- Bootstrap core CSS -->
+<link href="css/bootstrap.css" rel="stylesheet"> 
+
+
+<!-- Sets up link colors, etc.-->
+
+<body alink="#0f4d92" bgcolor="#FFFFFF" link="#0f4d92" vlink="#0f4d92">
+
+<!-- Removes underlining from links -->
+
+<style>
+a:link {
+   color: #0f4d92; text-decoration: none; 
+}
+
+a:visited {
+   color: #0f4d92; text-decoration: none; 
+}
+
+a:hover {
+   color: #0f4d92; text-decoration: underline; 
+}
+
+a:active {
+   color: #0f4d92; text-decoration: none; 
+}
+</style>
+
+<!-- Header -->
+<table align="center" width="85%">
+	<tbody><tr bgcolor="#d3d3d3">
+		<td align="left" width="33%">
+	
+       </td>
+
+</tbody></table>
+
+<hr align="center" style="width: 85%; color: #0f4d92; height: 0.2%; background-color:#0f4d92;" />
+
+<p>
+<br>
+</p>
+<table align="center" width="80%">
+	<tbody><tr>
+
+		<td align="center" valign="center" width="25%">
+        <img border="0" img class="img-responsive" src=krehbiel_photo2.jpg width="60%" height=“40%"></td>
+
+		<td align="left" valign="center" width="25%">
+			<font face="Helvetica" size="5">
+			<strong>Jay N. Krehbiel</strong><br>
+			</font>			
+			<font face="Helvetica" size="4">
+			Assistant Professor of Political Science<br>
+			West Virginia University
+			</font>
+
+<p>
+<br>
 
 	<font face="Helvetica" size="4">
 	<b><a href="https://www.dropbox.com/s/p8tt16u3urr9grt/Krehbiel_CV.pdf?dl=0" target="_blank">CV</a></b></font><br>
