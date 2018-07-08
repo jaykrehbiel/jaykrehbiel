@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
 
 <!--
@@ -72,7 +73,6 @@ a:active {
 
 <p>
 <br>
-
 	<font face="Helvetica" size="4">
 	<b><a href="https://www.dropbox.com/s/p8tt16u3urr9grt/Krehbiel_CV.pdf?dl=0" target="_blank">CV</a></b></font><br>
 			<br>
@@ -626,3 +626,5 @@ document.getElementById(divId).style.display = 'none';
   ga('send', 'pageview');
 
 </script>
+
+
